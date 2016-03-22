@@ -1,0 +1,19 @@
+{
+    "addsubmission": "Ajouter devoir",
+    "allowsubmissionsfromdate": "Permettre des devoirs de",
+    "attemptnumber": "Numéro de tentative",
+    "cutoffdate": "Date limite",
+    "duedate": "Date de remise",
+    "duedateno": "Pas de date de remise",
+    "submissions": "Devoirs",
+    "userwithid": "Utilisateur d'Id {{id}}",
+    "viewsubmission": "Afficher devoir",
+    "noContent": "Aucun devoirs",
+    "grade": "Note",
+    "comment": "Commentaire",
+    "send": "Envoyer",
+    "sync": "Tout synchroniser",
+    "downloadall": "Tout télécharger",
+    "noSub": "Aucun fichier rendu",
+    "hasbeengraded": "La note a été enregistrée"
+}
